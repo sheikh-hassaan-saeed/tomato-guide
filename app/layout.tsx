@@ -24,6 +24,9 @@ export const metadata: Metadata = {
     siteName: "TomatoGrowGuide",
     type: "website",
   },
+  verification: {
+    google: "dXQ8xXghFAnaP7UpR0YBweaYvaghR6rxGuENFsTeKn8",
+  },
 };
 
 export default function RootLayout({
